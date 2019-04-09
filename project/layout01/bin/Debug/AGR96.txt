@@ -1,0 +1,47 @@
+                                               [PD-S Viewer end-user license agreements]
+
+The use of PD-S Viewer (hereinafter, "Software") is subject to the terms and conditions of use listed below. 
+Furthermore, by starting to use Software, you are agreeing to these terms and conditions.
+
+1. FUJIFILM Corporation (hereinafter, "Fujifilm") grants a non-exclusive and non-transferable 
+   right to use Software under the following terms to the end user of Software (hereinafter, "Licensee").
+   1) Ownership of software
+      Copyright of Software, including intellectual properties, are retained by Fujifilm or the multiple 
+      third parties (hereinafter referred collectively as "Licensors") who have granted Fujifilm the right 
+      to use and redistribution rights for the software that Fujifilm has incorporated into the Software 
+      under license from multiple third parties.
+   2) Compliance Rules
+      Licensee will comply with the following terms, and will lose the right to use the Software if violated.
+        (1)  Licensee shall not use Software in any form other than as software embedded in electronic 
+             media beforehand.
+        (2)  Licensee shall not duplicate the manual included with Software.
+        (3)  Licensee shall not transfer, rent, or re-license Software to a third party.
+        (4)  Licensee shall not duplicate Software in any form other than as software embedded in 
+             electronic media created by the Fujifilm application.
+        (5)  Licensee shall make no attempt to reverse engineer, reverse assemble, reverse compile, 
+             or extract the source code of Software.
+        (6)  Licensee shall not take Software outside the country.
+        (7)  Licensee shall recognize that Software includes confidential information from Fujifilm 
+             and Licensors.  Licensee shall protect the confidentiality of this information, to at 
+             least the same extent that Licensee protects its own sensitive information.
+   3) Items of agreement
+       The licensee should understand the following items about Software.
+        (1)  THIS PRODUCT IS NOT INTENDED FOR DIAGNOSTIC PURPOSES. FUJIFILM AND 
+             THE LICENSOR ASSUME NO RESPONSIBILITY WHATSOEVER FOR ANY USE OF 
+             THE SOFTWARE AS A DIAGNOSTIC TOOL.
+2. Fujifilm and Licensors do not grant or transfer to Licensee any rights to Software except as provided 
+   explicitly in this document.
+3. Fujifilm and Licensors shall be able to directly exercise the rights set forth in this document with 
+   respect to Licensee.
+4. Software is provided to Licensee "as is". Fujifilm does not warrant Software's merchantability or 
+   fitness for any particular purpose, does not warrant that Software does not infringe the rights of 
+   third parties, and assumes no obligation to provide technical support.
+5. Fujifilm shall not be held liable for any damages or secondary damages under any circumstances that 
+   arise indirectly, incidentally, consequentially, or specifically based on the use of Software or 
+   accompanying manual. This is not applicable to the extent Fujifilm is intentionally or grossly negligent 
+   in the damage.
+6. This Agreement shall be governed by and interpreted in accordance with the laws of Japan without regard 
+   to its conflict of laws principles.
+7. All disputes arising in relation to this agreement shall be resolved with the Tokyo District Court as 
+   the exclusive court of jurisdiction in the first instance.
+

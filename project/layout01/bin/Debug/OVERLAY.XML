@@ -1,0 +1,285 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<OVERLAYSETTING>
+  <FONT NAME="MS UI Gothic" SIZE="11" />
+  <MODALITY NAME="OTHER">
+    <LOCATION VALUE="LOWERLEFT">
+      <LINE>
+        <MACRO VALUE="MULTIFRAME" />
+      </LINE>
+      <LINE>
+        <MACRO VALUE="PAGE" />
+      </LINE>
+    </LOCATION>
+    <LOCATION VALUE="UPPERRIGHT">
+      <LINE>
+        <TAG NO="0008,103E" />
+      </LINE>
+      <LINE>
+        <TAG NO="0008,0022" FORMAT="YYYY_MM_DD" />
+        <TAG NO="0008,0032" FORMAT="HH_MM_SS" PREFIX=" " />
+      </LINE>
+      <LINE>
+        <TAG NO="0018,0010" />
+      </LINE>
+      <LINE>
+        <TAG NO="0020,1041" PREFIX="LOC:" />
+      </LINE>
+      <LINE>
+        <TAG NO="0018,5100" />
+      </LINE>
+    </LOCATION>
+    <LOCATION VALUE="LOWERRIGHT">
+      <LINE>
+        <MACRO VALUE="JPEG_LOSSY" />
+      </LINE>
+      <LINE>
+        <MACRO VALUE="ZOOM_RATE" PREFIX="Z:" />
+      </LINE>
+      <LINE>
+        <MACRO VALUE="WINDOW_CENTER" PREFIX="C:" />
+      </LINE>
+      <LINE>
+        <MACRO VALUE="WINDOW_WIDTH" PREFIX="W:" />
+      </LINE>
+      <LINE>
+        <TAG NO="0020,0013" PREFIX="IM:" />
+      </LINE>
+    </LOCATION>
+  </MODALITY>
+  <MODALITY NAME="MG">
+    <LOCATION VALUE="UPPERLEFT">
+      <LINE>
+        <MACRO VALUE="MAMMO_LATERALITY" />
+      </LINE>
+    </LOCATION>
+    <LOCATION VALUE="LOWERLEFT">
+      <LINE>
+        <MACRO VALUE="MULTIFRAME" />
+      </LINE>
+      <LINE>
+        <MACRO VALUE="PAGE" />
+      </LINE>
+    </LOCATION>
+    <LOCATION VALUE="UPPERRIGHT">
+      <LINE>
+        <TAG NO="0008,103E" />
+      </LINE>
+      <LINE>
+        <TAG NO="0008,0022" FORMAT="YYYY_MM_DD" />
+        <TAG NO="0008,0032" FORMAT="HH_MM_SS" PREFIX=" " />
+      </LINE>
+      <LINE>
+        <TAG NO="0018,0010" />
+      </LINE>
+      <LINE>
+        <TAG NO="0020,1041" PREFIX="LOC:" />
+      </LINE>
+      <LINE>
+        <TAG NO="0018,5100" />
+      </LINE>
+    </LOCATION>
+    <LOCATION VALUE="LOWERRIGHT">
+      <LINE>
+        <MACRO VALUE="JPEG_LOSSY" />
+      </LINE>
+      <LINE>
+        <MACRO VALUE="ZOOM_RATE" PREFIX="Z:" />
+      </LINE>
+      <LINE>
+        <MACRO VALUE="WINDOW_CENTER" PREFIX="C:" />
+      </LINE>
+      <LINE>
+        <MACRO VALUE="WINDOW_WIDTH" PREFIX="W:" />
+      </LINE>
+      <LINE>
+        <TAG NO="0020,0013" PREFIX="IM:" />
+      </LINE>
+    </LOCATION>
+  </MODALITY>
+  <MODALITY NAME="CR">
+    <LOCATION VALUE="LOWERLEFT">
+      <LINE>
+        <MACRO VALUE="MULTIFRAME" />
+      </LINE>
+      <LINE>
+        <MACRO VALUE="PAGE" />
+      </LINE>
+    </LOCATION>
+    <LOCATION VALUE="UPPERRIGHT">
+      <LINE>
+        <TAG NO="0008,103E" />
+      </LINE>
+      <LINE>
+        <TAG NO="0008,0022" FORMAT="YYYY_MM_DD" />
+        <TAG NO="0008,0032" FORMAT="HH_MM_SS" PREFIX=" " />
+      </LINE>
+      <LINE>
+        <TAG NO="0018,0010" />
+      </LINE>
+      <LINE>
+        <TAG NO="0020,1041" PREFIX="LOC:" />
+      </LINE>
+      <LINE>
+        <TAG NO="0018,5100" />
+      </LINE>
+    </LOCATION>
+    <LOCATION VALUE="LOWERRIGHT">
+      <LINE>
+        <MACRO VALUE="JPEG_LOSSY" />
+      </LINE>
+      <LINE>
+        <TAG NO="0018,6000" PREFIX="S:" />
+      </LINE>
+      <LINE>
+        <MACRO VALUE="ZOOM_RATE" PREFIX="Z:" />
+      </LINE>
+      <LINE>
+        <MACRO VALUE="WINDOW_CENTER" PREFIX="C:" />
+      </LINE>
+      <LINE>
+        <MACRO VALUE="WINDOW_WIDTH" PREFIX="W:" />
+      </LINE>
+      <LINE>
+        <TAG NO="0020,0013" PREFIX="IM:" />
+      </LINE>
+    </LOCATION>
+  </MODALITY>
+  <MODALITY NAME="CT">
+    <LOCATION VALUE="LOWERLEFT">
+      <LINE>
+        <MACRO VALUE="MULTIFRAME" />
+      </LINE>
+      <LINE>
+        <TAG NO="0018,1100" PREFIX="RD:" />
+      </LINE>
+      <LINE>
+        <TAG NO="0018,1120" PREFIX="Tilt:" />
+      </LINE>
+      <LINE>
+        <TAG NO="0018,1151" PREFIX="mA:" />
+      </LINE>
+      <LINE>
+        <TAG NO="0018,0060" PREFIX="KVP:" />
+      </LINE>
+      <LINE>
+        <TAG NO="0020,0012" PREFIX="Acq no:" />
+      </LINE>
+      <LINE>
+        <MACRO VALUE="PAGE" />
+      </LINE>
+    </LOCATION>
+    <LOCATION VALUE="UPPERRIGHT">
+      <LINE>
+        <TAG NO="0008,103E" />
+      </LINE>
+      <LINE>
+        <TAG NO="0008,0022" FORMAT="YYYY_MM_DD" />
+        <TAG NO="0008,0032" FORMAT="HH_MM_SS" PREFIX=" " />
+      </LINE>
+      <LINE>
+        <TAG NO="0018,0010" />
+      </LINE>
+      <LINE>
+        <TAG NO="0020,1041" PREFIX="LOC:" />
+      </LINE>
+      <LINE>
+        <TAG NO="0018,0050" PREFIX="THK:" />
+      </LINE>
+      <LINE>
+        <TAG NO="0018,5100" />
+      </LINE>
+    </LOCATION>
+    <LOCATION VALUE="LOWERRIGHT">
+      <LINE>
+        <MACRO VALUE="JPEG_LOSSY" />
+      </LINE>
+      <LINE>
+        <MACRO VALUE="ZOOM_RATE" PREFIX="Z:" />
+      </LINE>
+      <LINE>
+        <MACRO VALUE="WINDOW_CENTER" PREFIX="C:" />
+      </LINE>
+      <LINE>
+        <MACRO VALUE="WINDOW_WIDTH" PREFIX="W:" />
+      </LINE>
+      <LINE>
+        <TAG NO="0020,0013" PREFIX="IM:" SUFFIX=" " />
+        <TAG NO="0020,0011" PREFIX="SE:" />
+      </LINE>
+    </LOCATION>
+  </MODALITY>
+  <MODALITY NAME="MR">
+    <LOCATION VALUE="LOWERLEFT">
+      <LINE>
+        <MACRO VALUE="MULTIFRAME" />
+      </LINE>
+      <LINE>
+        <TAG NO="0018,9043" />
+      </LINE>
+      <LINE>
+        <TAG NO="0018,0086" PREFIX="EC:" />
+      </LINE>
+      <LINE>
+        <TAG NO="0018,0020" />
+      </LINE>
+      <LINE>
+        <TAG NO="0018,1314" PREFIX="FA:" />
+      </LINE>
+      <LINE>
+        <TAG NO="0018,0080" PREFIX="TR:" />
+      </LINE>
+      <LINE>
+        <TAG NO="0018,0081" PREFIX="TE:" />
+      </LINE>
+      <LINE>
+        <TAG NO="0018,1310" PREFIX="ACQ:" INDEX="1" />
+        <TAG NO="0018,1310" PREFIX="\" INDEX="2" />
+      </LINE>
+      <LINE>
+        <MACRO VALUE="PAGE" />
+      </LINE>
+    </LOCATION>
+    <LOCATION VALUE="UPPERRIGHT">
+      <LINE>
+        <TAG NO="0008,103E" />
+      </LINE>
+      <LINE>
+        <TAG NO="0008,0022" FORMAT="YYYY_MM_DD" />
+        <TAG NO="0008,0032" FORMAT="HH_MM_SS" PREFIX=" " />
+      </LINE>
+      <LINE>
+        <TAG NO="0018,0010" />
+      </LINE>
+      <LINE>
+        <TAG NO="0020,1041" PREFIX="LOC:" />
+      </LINE>
+      <LINE>
+        <TAG NO="0018,0050" PREFIX="THK:" />
+      </LINE>
+      <LINE>
+        <TAG NO="0018,0088" PREFIX="SP:" />
+      </LINE>
+      <LINE>
+        <TAG NO="0018,5100" />
+      </LINE>
+    </LOCATION>
+    <LOCATION VALUE="LOWERRIGHT">
+      <LINE>
+        <MACRO VALUE="JPEG_LOSSY" />
+      </LINE>
+      <LINE>
+        <MACRO VALUE="ZOOM_RATE" PREFIX="Z:" />
+      </LINE>
+      <LINE>
+        <MACRO VALUE="WINDOW_CENTER" PREFIX="C:" />
+      </LINE>
+      <LINE>
+        <MACRO VALUE="WINDOW_WIDTH" PREFIX="W:" />
+      </LINE>
+      <LINE>
+        <TAG NO="0020,0013" PREFIX="IM:" SUFFIX=" " />
+        <TAG NO="0020,0011" PREFIX="SE:" />
+      </LINE>
+    </LOCATION>
+  </MODALITY>
+</OVERLAYSETTING>

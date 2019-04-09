@@ -1,0 +1,103 @@
+C:\Users\MedSky\Documents\MEDCD\Teste01\layout01\layout01\bin\Debug\layout01.exe.config
+C:\Users\MedSky\Documents\MEDCD\Teste01\layout01\layout01\obj\Debug\layout01.Form1.resources
+C:\Users\MedSky\Documents\MEDCD\Teste01\layout01\layout01\obj\Debug\layout01.Resources.resources
+C:\Users\MedSky\Documents\MEDCD\Teste01\layout01\layout01\obj\Debug\layout01.vbproj.GenerateResource.Cache
+C:\Users\MedSky\Documents\MEDCD\Teste01\layout01\layout01\bin\Debug\layout01.exe
+C:\Users\MedSky\Documents\MEDCD\Teste01\layout01\layout01\bin\Debug\layout01.pdb
+C:\Users\MedSky\Documents\MEDCD\Teste01\layout01\layout01\bin\Debug\layout01.xml
+C:\Users\MedSky\Documents\MEDCD\Teste01\layout01\layout01\obj\Debug\layout01.exe
+C:\Users\MedSky\Documents\MEDCD\Teste01\layout01\layout01\obj\Debug\layout01.xml
+C:\Users\MedSky\Documents\MEDCD\Teste01\layout01\layout01\obj\Debug\layout01.pdb
+C:\Users\MedSky\Documents\MEDCD\Teste01\layout01\layout01\obj\Debug\layout01.Sobre.resources
+C:\Users\MedSky\Documents\MEDCD\Teste01\layout01\layout01\obj\Debug\layout01.Service1.resources
+C:\Users\MedSky\Documents\MEDCD\Teste01\layout01\layout01\obj\Debug\layout01.Form2.resources
+C:\Users\MedSky\Documents\MEDCD\Teste01\layout01\layout01\obj\Debug\Interop.AcroPDFLib.dll
+C:\Users\MedSky\Documents\MEDCD\Teste01\layout01\layout01\obj\Debug\AxInterop.AcroPDFLib.dll
+C:\Users\MedSky\Documents\MEDCD\Teste01\layout01\layout01\obj\Debug\layout01.vbproj.ResolveComReference.cache
+C:\Users\MedSky\Documents\MEDCD\Teste01\layout01\layout01\bin\Debug\pt\layout01.resources.dll
+C:\Users\MedSky\Documents\MEDCD\Teste01\layout01\layout01\bin\Debug\Interop.AcroPDFLib.dll
+C:\Users\MedSky\Documents\MEDCD\Teste01\layout01\layout01\bin\Debug\AxInterop.AcroPDFLib.dll
+C:\Users\MedSky\Documents\MEDCD\Teste01\layout01\layout01\obj\Debug\layout01.Form1.pt.resources
+C:\Users\MedSky\Documents\MEDCD\Teste01\layout01\layout01\obj\Debug\pt\layout01.resources.dll
+C:\Users\MedSky\Documents\MEDCD\Teste01\layout01\layout01\obj\Debug\layout01.Duvidas.resources
+C:\Users\MedSky\Desktop\MEDCD\Teste01\layout01\layout01\obj\Debug\Interop.AcroPDFLib.dll
+C:\Users\MedSky\Desktop\MEDCD\Teste01\layout01\layout01\obj\Debug\AxInterop.AcroPDFLib.dll
+C:\Users\MedSky\Desktop\MEDCD\Teste01\layout01\layout01\obj\Debug\layout01.vbproj.ResolveComReference.cache
+C:\Users\MedSky\Desktop\MEDCD\Teste01\layout01\layout01\obj\Debug\layout01.vbproj.GenerateResource.Cache
+C:\Users\MedSky\Desktop\MEDCD\Teste01\layout01\layout01\bin\Debug\Interop.AcroPDFLib.dll
+C:\Users\MedSky\Desktop\MEDCD\Teste01\layout01\layout01\bin\Debug\AxInterop.AcroPDFLib.dll
+C:\Users\MedSky\Desktop\Trabalhos MedSky\ \layout01\layout01\bin\Debug\layout01.exe.config
+C:\Users\MedSky\Desktop\Trabalhos MedSky\ \layout01\layout01\obj\Debug\Interop.AcroPDFLib.dll
+C:\Users\MedSky\Desktop\Trabalhos MedSky\ \layout01\layout01\obj\Debug\AxInterop.AcroPDFLib.dll
+C:\Users\MedSky\Desktop\Trabalhos MedSky\ \layout01\layout01\obj\Debug\layout01.vbproj.ResolveComReference.cache
+C:\Users\MedSky\Desktop\Trabalhos MedSky\ \layout01\layout01\obj\Debug\layout01.exe
+C:\Users\MedSky\Desktop\Trabalhos MedSky\ \layout01\layout01\obj\Debug\layout01.xml
+C:\Users\MedSky\Desktop\Trabalhos MedSky\ \layout01\layout01\obj\Debug\layout01.pdb
+C:\Users\MedSky\Desktop\Trabalhos MedSky\ \layout01\layout01\bin\Debug\layout01.exe
+C:\Users\MedSky\Desktop\Trabalhos MedSky\ \layout01\layout01\bin\Debug\layout01.pdb
+C:\Users\MedSky\Desktop\Trabalhos MedSky\ \layout01\layout01\bin\Debug\layout01.xml
+C:\Users\MedSky\Desktop\Trabalhos MedSky\ \layout01\layout01\bin\Debug\pt\layout01.resources.dll
+C:\Users\MedSky\Desktop\Trabalhos MedSky\ \layout01\layout01\bin\Debug\Interop.AcroPDFLib.dll
+C:\Users\MedSky\Desktop\Trabalhos MedSky\ \layout01\layout01\bin\Debug\AxInterop.AcroPDFLib.dll
+C:\Users\MedSky\Desktop\Trabalhos MedSky\ \layout01\layout01\obj\Debug\layout01.Sobre.resources
+C:\Users\MedSky\Desktop\Trabalhos MedSky\ \layout01\layout01\obj\Debug\layout01.Duvidas.resources
+C:\Users\MedSky\Desktop\Trabalhos MedSky\ \layout01\layout01\obj\Debug\layout01.Index.resources
+C:\Users\MedSky\Desktop\Trabalhos MedSky\ \layout01\layout01\obj\Debug\layout01.Leitor_PDF.resources
+C:\Users\MedSky\Desktop\Trabalhos MedSky\ \layout01\layout01\obj\Debug\layout01.Form3.resources
+C:\Users\MedSky\Desktop\Trabalhos MedSky\ \layout01\layout01\obj\Debug\layout01.Form4.resources
+C:\Users\MedSky\Desktop\Trabalhos MedSky\ \layout01\layout01\obj\Debug\layout01.Resources.resources
+C:\Users\MedSky\Desktop\Trabalhos MedSky\ \layout01\layout01\obj\Debug\layout01.Service1.resources
+C:\Users\MedSky\Desktop\Trabalhos MedSky\ \layout01\layout01\obj\Debug\layout01.Index.pt.resources
+C:\Users\MedSky\Desktop\Trabalhos MedSky\ \layout01\layout01\obj\Debug\layout01.vbproj.GenerateResource.Cache
+C:\Users\MedSky\Desktop\Trabalhos MedSky\ \layout01\layout01\obj\Debug\pt\layout01.resources.dll
+C:\Users\MedSky\Desktop\MEDCD\Teste01\layout01\layout01\bin\Debug\MEDCD.exe.config
+C:\Users\MedSky\Desktop\MEDCD\Teste01\layout01\layout01\bin\Debug\MEDCD.exe.manifest
+C:\Users\MedSky\Desktop\MEDCD\Teste01\layout01\layout01\bin\Debug\MEDCD.application
+C:\Users\MedSky\Desktop\MEDCD\Teste01\layout01\layout01\bin\Debug\MEDCD.exe
+C:\Users\MedSky\Desktop\MEDCD\Teste01\layout01\layout01\bin\Debug\MEDCD.pdb
+C:\Users\MedSky\Desktop\MEDCD\Teste01\layout01\layout01\bin\Debug\MEDCD.xml
+C:\Users\MedSky\Desktop\MEDCD\Teste01\layout01\layout01\bin\Debug\pt\MEDCD.resources.dll
+C:\Users\MedSky\Desktop\MEDCD\Teste01\layout01\layout01\obj\Debug\pt\MEDCD.resources.dll
+C:\Users\MedSky\Desktop\MEDCD\Teste01\layout01\layout01\obj\Debug\MEDCD.TrustInfo.xml
+C:\Users\MedSky\Desktop\MEDCD\Teste01\layout01\layout01\obj\Debug\MEDCD.exe.manifest
+C:\Users\MedSky\Desktop\MEDCD\Teste01\layout01\layout01\obj\Debug\MEDCD.application
+C:\Users\MedSky\Desktop\MEDCD\Teste01\layout01\layout01\obj\Debug\MEDCD.exe
+C:\Users\MedSky\Desktop\MEDCD\Teste01\layout01\layout01\obj\Debug\MEDCD.xml
+C:\Users\MedSky\Desktop\MEDCD\Teste01\layout01\layout01\obj\Debug\MEDCD.pdb
+C:\Users\MedSky\Desktop\MEDCD\Teste01\layout01\layout01\obj\Debug\MEDCD.Sobre.resources
+C:\Users\MedSky\Desktop\MEDCD\Teste01\layout01\layout01\obj\Debug\MEDCD.Duvidas.resources
+C:\Users\MedSky\Desktop\MEDCD\Teste01\layout01\layout01\obj\Debug\MEDCD.Index.resources
+C:\Users\MedSky\Desktop\MEDCD\Teste01\layout01\layout01\obj\Debug\MEDCD.Form3.resources
+C:\Users\MedSky\Desktop\MEDCD\Teste01\layout01\layout01\obj\Debug\MEDCD.Form4.resources
+C:\Users\MedSky\Desktop\MEDCD\Teste01\layout01\layout01\obj\Debug\MEDCD.Resources.resources
+C:\Users\MedSky\Desktop\MEDCD\Teste01\layout01\layout01\obj\Debug\MEDCD.Service1.resources
+C:\Users\MedSky\Desktop\MEDCD\Teste01\layout01\layout01\obj\Debug\MEDCD.Index.pt.resources
+E:\PEN\Projects\vb.Net\vb.net-Project\project\layout01\bin\Debug\MEDCD.exe.config
+E:\PEN\Projects\vb.Net\vb.net-Project\project\layout01\bin\Debug\MEDCD.exe.manifest
+E:\PEN\Projects\vb.Net\vb.net-Project\project\layout01\bin\Debug\MEDCD.application
+E:\PEN\Projects\vb.Net\vb.net-Project\project\layout01\bin\Debug\MEDCD.exe
+E:\PEN\Projects\vb.Net\vb.net-Project\project\layout01\bin\Debug\MEDCD.pdb
+E:\PEN\Projects\vb.Net\vb.net-Project\project\layout01\bin\Debug\MEDCD.xml
+E:\PEN\Projects\vb.Net\vb.net-Project\project\layout01\bin\Debug\pt\MEDCD.resources.dll
+E:\PEN\Projects\vb.Net\vb.net-Project\project\layout01\bin\Debug\Interop.AcroPDFLib.dll
+E:\PEN\Projects\vb.Net\vb.net-Project\project\layout01\bin\Debug\AxInterop.AcroPDFLib.dll
+E:\PEN\Projects\vb.Net\vb.net-Project\project\layout01\obj\Debug\Interop.AcroPDFLib.dll
+E:\PEN\Projects\vb.Net\vb.net-Project\project\layout01\obj\Debug\AxInterop.AcroPDFLib.dll
+E:\PEN\Projects\vb.Net\vb.net-Project\project\layout01\obj\Debug\layout01.vbproj.ResolveComReference.cache
+E:\PEN\Projects\vb.Net\vb.net-Project\project\layout01\obj\Debug\MEDCD.Sobre.resources
+E:\PEN\Projects\vb.Net\vb.net-Project\project\layout01\obj\Debug\MEDCD.Duvidas.resources
+E:\PEN\Projects\vb.Net\vb.net-Project\project\layout01\obj\Debug\MEDCD.Index.resources
+E:\PEN\Projects\vb.Net\vb.net-Project\project\layout01\obj\Debug\MEDCD.Form3.resources
+E:\PEN\Projects\vb.Net\vb.net-Project\project\layout01\obj\Debug\MEDCD.Form4.resources
+E:\PEN\Projects\vb.Net\vb.net-Project\project\layout01\obj\Debug\MEDCD.Resources.resources
+E:\PEN\Projects\vb.Net\vb.net-Project\project\layout01\obj\Debug\MEDCD.Service1.resources
+E:\PEN\Projects\vb.Net\vb.net-Project\project\layout01\obj\Debug\MEDCD.Index.pt.resources
+E:\PEN\Projects\vb.Net\vb.net-Project\project\layout01\obj\Debug\layout01.vbproj.GenerateResource.cache
+E:\PEN\Projects\vb.Net\vb.net-Project\project\layout01\obj\Debug\layout01.vbproj.CoreCompileInputs.cache
+E:\PEN\Projects\vb.Net\vb.net-Project\project\layout01\obj\Debug\pt\MEDCD.resources.dll
+E:\PEN\Projects\vb.Net\vb.net-Project\project\layout01\obj\Debug\MEDCD.TrustInfo.xml
+E:\PEN\Projects\vb.Net\vb.net-Project\project\layout01\obj\Debug\MEDCD.exe.manifest
+E:\PEN\Projects\vb.Net\vb.net-Project\project\layout01\obj\Debug\MEDCD.application
+E:\PEN\Projects\vb.Net\vb.net-Project\project\layout01\obj\Debug\MEDCD.exe
+E:\PEN\Projects\vb.Net\vb.net-Project\project\layout01\obj\Debug\MEDCD.xml
+E:\PEN\Projects\vb.Net\vb.net-Project\project\layout01\obj\Debug\MEDCD.pdb
